@@ -3,9 +3,9 @@
 ## Contents ##
 
 1. [Description](#Description)
-2. Technologies(#Technologies)
-3. Live Website(#Live Website)
-4. Screenshot(#Screenshot)
+2. [Technologies](#Technologies)
+3. [Live Website](#Live Website)
+4. [Screenshot](#Screenshot)
 
 ## Description ##
 
