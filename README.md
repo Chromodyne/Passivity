@@ -26,6 +26,7 @@ Passivity utilizes a full MERN stack with a plethora of additional pacakages and
 
 ## Live Website ##
 
+Heroku Free Tier Removed :(
 
 ## Screenshot ##
 
