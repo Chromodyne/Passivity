@@ -30,4 +30,3 @@ https://www.placeholder.placeholder.placeholder
 
 ## Screenshot ##
 
-!(Screenshot Placeholder)[#]
